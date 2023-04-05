@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 👋, I'm Matias Perelli
 
-<!--
-**matiasperelli/MatiasPerelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a new developer who is excited to learn everything about computing, currently learning in chile, Universidad Técnica Federico Santa María
 
-Here are some ideas to get you started:
+
+
+### 👨‍💻 About me:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on OOP 
+- 🤔 I’m looking for help with OOP
+- 💬 Ask me about Python, C++ and Java
+- 📫 How to reach me: mati.perelli@gmail.com
+
