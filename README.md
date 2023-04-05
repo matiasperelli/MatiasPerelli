@@ -1,4 +1,7 @@
-## Hi 👋, I'm Matias Perelli
+<div align="center">
+     <h3> Hi 👋, I'm Matias Perelli:</h3>
+  </div>
+
 
  I am a new developer who is excited to learn everything about computing. Currently learning in chile, Universidad Técnica Federico Santa María
 
@@ -20,10 +23,11 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Python" width="40" height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Python" width="40" height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Python" width="40" height="40"/>&nbsp;
+ </div>
 
 ---
             
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatiasPerelli&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasPerelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasPerelli&layout=compact&theme=dark&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
