@@ -9,10 +9,10 @@
 ### 👨‍💻 About me:
 
 - 🔭 I’m currently working on WazGuard
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Java
-- 💬 Ask me about Python, C++, Java and WordPress
+- 💬 Ask me about Python, C++, Java, C and WordPress
 - 📫 How to reach me: mati.perelli@gmail.com
 
 <div align="left">
