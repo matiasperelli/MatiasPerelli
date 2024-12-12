@@ -3,16 +3,16 @@
   </div>
 
 
- I am a new developer who is excited to learn everything about computing. Currently learning in chile, Universidad Técnica Federico Santa María
+ I am a new developer who is excited to learn everything about computing. Currently learning in Chile, Universidad Técnica Federico Santa María
 
 ---
 ### 👨‍💻 About me:
 
-- 🔭 I’m currently working on MyGame
+- 🔭 I’m currently working on projects
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on C
 - 🤔 I’m looking for help with Java
-- 💬 Ask me about Python, C++, Java, C and WordPress
+- 💬 Ask me about everything about computing 
 - 📫 How to reach me: mati.perelli@gmail.com
 
 <div align="left">
