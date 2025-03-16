@@ -2,13 +2,12 @@
      <h3> Hi 👋, I'm Matias Perelli:</h3>
   </div>
 
-
- I am a new developer who is excited to learn everything about computing. Currently learning in Chile, Universidad Técnica Federico Santa María
+I'm a developer who likes challenges. I'm currently studying at university.
 
 ---
 ### 👨‍💻 About me:
 
-- 🔭 I’m currently working on projects
+- 🔭 I’m currently working on data mining.
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on C
 - 🤔 I’m looking for help with Java
